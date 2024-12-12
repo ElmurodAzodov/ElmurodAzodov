@@ -1,4 +1,5 @@
-Hi 👋 My name is Elmurod Azodov
+Assalomu alaikum! 👋
+My name is Elmurod Azodov
 ===============================
 
 Software Engineer | Full-Stack Web Developer
