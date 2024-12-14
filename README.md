@@ -8,7 +8,7 @@ Software Engineer | Full-Stack Web Developer
 I studied a bachelor's degree in Software Engineering at Samarkand State University. I am studying software engineering at Samarkand State University (2021-2025). In 2022, I attended the Full-Stack Web Development course at the Samarkand IT Park. I learned various technologies and am currently working on my own.
 
 * ✉️  You can contact me at [the.elmurod@gmail.com](mailto:the.elmurod@gmail.com)
-* 🧠  I'm learning React, Node, Django, Django Rest Frameworks
+* 🧠  I'm learning React, Django, Django Rest Frameworks
 
 ### Skills
 
