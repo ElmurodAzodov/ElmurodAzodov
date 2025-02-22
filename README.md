@@ -2,7 +2,7 @@ Assalomu alaikum! 👋
 My name is Elmurod
 ===============================
 
-Software Engineer | Full-Stack Web Developer
+Software Engineer | Full-Stack Developer
 --------------------------------------------
 
 I studied a bachelor's degree in Software Engineering at Samarkand State University. I am studying software engineering at Samarkand State University (2021-2025). In 2022, I attended the Full-Stack Web Development course at the Samarkand IT Park. I learned various technologies and am currently working on my own.
