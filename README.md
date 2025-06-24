@@ -5,7 +5,7 @@ My name is Elmurod
 Software Engineer | Full-Stack Developer
 --------------------------------------------
 
-I studied a bachelor's degree in Software Engineering at Samarkand State University. I am studying software engineering at Samarkand State University (2021-2025). In 2022, I attended the Full-Stack Web Development course at the Samarkand IT Park. I learned various technologies and am currently working on my own.
+I have a bachelor's degree in "SOFTWARE ENGINEERING" from "SAMARKAND STATE UNIVERSITY NAMED AFTER SHAROF RASHIDOV" in 2021-2025. In 2022-2023, I also studied the "Full-stack development" course at the IT park. During this time, I thoroughly studied "Front-End" and "Back-End" technologies. I continue to learn programming on Udemy, Coursera, YouTube and other platforms. The clear goal is to become a senior-level programmer.
 
 * ✉️  You can contact me at [the.elmurod@gmail.com](mailto:the.elmurod@gmail.com)
 * 🧠  I'm learning React, Django, Django Rest Frameworks
