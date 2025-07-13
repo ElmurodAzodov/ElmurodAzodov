@@ -1,7 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=600&lines=Assalomu+alaikum!+I'm+Elmurod+Azodov;Full-Stack+Developer;ReactJS+%7C+Django+%7C+PostgreSQL;Software+Engineer+from+Uzbekistan;Let’s+Build+the+Future!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00BFFF&width=600&lines=Assalomu+alaikum!+I'm+Elmurod+Azodov;Full-Stack+Developer;ReactJS+%7C+Django+%7C+PostgreSQL;Software+Engineer+from+Uzbekistan;Let's+Build+the+Future!" alt="Typing SVG" />
 </p>
+
 
 
 ---
