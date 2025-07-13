@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Assalomu alaikum!%20👋%2C%20I'm%20Elmurod%20Azodov!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Assalomu alaikum!%2C%20I'm%20Elmurod%20Azodov!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </div>
 
 <p align="center">
