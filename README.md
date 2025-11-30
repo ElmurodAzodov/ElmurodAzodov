@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Upgrade%20IT%20Academy-Teaching-orange?style=for-the-badge&logo=python" />
 </p>
 
-🎯 Currently mentoring at **IT Park** and **Upgrade IT Academy**:  
+🎯 Currently mentoring at **IT Park**:  
 - 📘 Computer Literacy  
 - 💻 Full-Stack Web Development (ReactJS + Django + PostgreSQL)  
 
@@ -61,7 +61,7 @@
 👨‍🏫 **Intern & Mentor — Samit Global Academy (2024–2025)**  
 → Mentored students in *Computer Literacy* & *Front-End Development*.  
 
-🚀 **Mentor — IT Park & Upgrade IT Academy (2025–Present)**  
+🚀 **Mentor — IT Park (2025–Present)**  
 → Teaching *Computer Literacy* & *Full-Stack Web Development*.  
 
 ---
