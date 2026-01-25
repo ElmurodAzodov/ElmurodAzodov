@@ -1,93 +1,158 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:1E90FF&height=200&section=header&text=Elmurod%20Azodov&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+<div align="center">
 
-<p align="center">
-  <b>💻 Software Engineer | 🌐 Full-Stack Developer | 👨‍🏫 Mentor</b>
-</p>
+<!-- Animated Header -->
 
-<p align="center">
-  <a href="mailto:the.elmurod@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/ElmurodAzodov"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://t.me/the_elmurod"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Elmurod%20Azodov&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 
----
+<!-- Typing Animation -->
 
-## 🚀 Current Role  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;Mentor+%26+Educator+%F0%9F%93%9A;Designing+Future-Proof+Web+Systems+%F0%9F%92%A1" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Mentor-Full--Stack%20Development-blueviolet?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/IT%20Park-Mentorship-green?style=for-the-badge&logo=django" />
-  <img src="https://img.shields.io/badge/Upgrade%20IT%20Academy-Teaching-orange?style=for-the-badge&logo=python" />
-</p>
+<!-- Profile Views -->
 
-🎯 Currently mentoring at **IT Park**:  
-- 📘 Computer Literacy  
-- 💻 Full-Stack Web Development (ReactJS + Django + PostgreSQL)  
+<img src="https://komarev.com/ghpvc/?username=ElmurodAzodov&style=for-the-badge&color=0891b2&label=Profile+Views" />
+
+</div>
 
 ---
 
-## 🎓 Education  
-🎓 **Samarkand State University** — Bachelor in Software Engineering (2021–2025)  
-📜 **IT Park** — Full-Stack Development Certificate (2023–2024)  
+<div align="center">
+
+## 🌟 About Me
+
+</div>
+
+```js
+const elmurod = {
+  role: "Software Engineer & Full-Stack Developer & Mentor",
+  stack: "Modern Web Development (frontend, backend, databases)",
+  experience: "Mentorship & Real-World Projects",
+  focus: "Clean architecture, scalable and maintainable systems",
+  mindset: "Teach • Build • Improve • Always Learning"
+};
+```
+
+I build **modern, scalable web systems** with a strong focus on **clean architecture, maintainability, and real-world problem solving**. I continuously **learn new technologies** and **enhance my coding skills** to deliver **future-proof solutions**.
 
 ---
 
-## 🏆 Certifications  
-- Full-Stack Development — IT Park  
-- Meta Front-End Developer  
-- Meta Back-End Developer  
+<div align="center">
+
+## 🎓 Education
+
+* 🎓 **Samarkand State University** — Bachelor in Software Engineering (2021–2025)
 
 ---
 
-## 💻 Tech Stack  
+## 🚀 What I Do
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,sass,bootstrap,tailwind,js,py,cpp,django,postgres,mysql,git,github,vscode,pycharm&perline=8" />
-</p>
+</div>
 
----
-
-## 💼 Experience  
-
-🧑‍💻 **Intern — IT Park (2023–2024)**  
-→ Built full-stack web applications using ReactJS & Django.  
-
-📚 **Academic Intern — Samarkand State University (2021–2025)**  
-→ Completed programming projects as part of academic training.  
-
-👨‍🏫 **Intern & Mentor — Samit Global Academy (2024–2025)**  
-→ Mentored students in *Computer Literacy* & *Front-End Development*.  
-
-🚀 **Mentor — IT Park (2025–Present)**  
-→ Teaching *Computer Literacy* & *Full-Stack Web Development*.  
+* 👨‍🏫 Mentor at **IT Park** & private academies
+* 💻 Teaching **Computer Literacy** & **Full-Stack Web Development**
+* 🧠 Modern Frontend • Scalable Backend • Databases • REST APIs
+* 📦 Designing production-ready architectures
+* 🌱 Continuously learning and experimenting with new technologies
 
 ---
 
-## 📊 GitHub Stats  
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ElmurodAzodov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ElmurodAzodov&theme=tokyonight&hide_border=true" height="150" />
-</p>
+## 🧰 Technology Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmurodAzodov&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
+</div>
+
+### 🎨 Frontend
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,sass,tailwind,bootstrap" />
+</div>
+
+### ⚙️ Backend
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT Auth](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge)
+
+</div>
+
+### 🗄️ Databases
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" />
+</div>
+
+### 🛠 Tools & DevOps
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,pycharm" />
+</div>
 
 ---
 
-## 🌟 Highlight Projects  
+<div align="center">
 
-🔗 [Project 1 – Full-Stack E-commerce App](#)  
-🔗 [Project 2 – Learning Management System](#)  
-🔗 [Project 3 – Portfolio Website](#)  
+## 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=ElmurodAzodov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ElmurodAzodov&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ElmurodAzodov&bg_color=0d1117&color=00d4ff&line=38bdf8&point=ffffff&area=true&hide_border=true" />
+</div>
 
 ---
 
-<!-- Footer Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00BFFF&height=120&section=footer" />
-</p>
+<div align="center">
+
+## 🏆 Highlights
+
+* 🔥 Built full-stack educational and production platforms
+* 🧑‍🎓 Mentored **hundreds of students**
+* 🏗 Designed production-ready and maintainable web applications
+* 📈 Clean architecture & scalable code
+* 🌱 Always learning and strengthening development skills
+
+---
+
+<div align="center">
+
+## 📬 Contact
+
+</div>
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/the_elmurod)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:the.elmurod@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/ElmurodAzodov)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Developer Philosophy
+
+**"Strong developers don’t just write code — they design systems and continuously improve themselves."**
+
+</div>
+
+<!-- Footer -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
