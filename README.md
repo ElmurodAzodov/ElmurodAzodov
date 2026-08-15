@@ -98,7 +98,7 @@ I continuously learn new technologies to deliver **future-proof solutions**.
 <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ElmurodAzodov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=ElmurodAzodov&theme=tokyonight&hide_border=true" />
 
-<img width="90%" src="https://ghchart.rshah.org/00d4ff/ElmurodAzodov" />
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElmurodAzodov&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
